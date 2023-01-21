@@ -15,7 +15,7 @@ int main ()
 
     for(i=0;i<strlen(cadena); i++)
     {
-        if(cadena[i]=caracter)
+        if(cadena[i]==caracter)
         {
             cont++;
         }
